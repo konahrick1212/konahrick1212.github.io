@@ -1,5 +1,4 @@
 <meta name="keywords" content="Brandon Mullins">
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
